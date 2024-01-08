@@ -58,5 +58,5 @@ Note: User can input their own testing data to predict by changing the "test.csv
 
 
 ## Contributors:
-Zain Siddiqui, Krupal Patel, Haneef Pervez
+Jawad Akbar
 
